@@ -1,0 +1,2 @@
+# Assignment--usage-Billing-System-for-a-Resource-
+I develop a Meeting Room for user. Here only one user can enter at a time and another user wait till whenever the user not stop the session. after that i focuse on the usage of time and billing system like if user enter in the meeting chargs 30rs will applicable for a hour and when user takes extra time then extra charges will be added like 10rs/hr
